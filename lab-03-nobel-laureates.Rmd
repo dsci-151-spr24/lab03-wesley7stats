@@ -307,6 +307,8 @@ nobel_living_science %>%
 5.  Add a second variable to your visualization from Exercise 3 based on whether the laureate was born in the US or not.
     Based on your visualization, do the data appear to support Buzzfeed's claim?
     Explain your reasoning in 1-2 sentences.
+***yes, the visualation supports the claim that there are more US born than others born Nobel laureates. There are more US(123) but also other Nobel laureates at (105).***
+
 
     -   Your final visualization should contain a facet for each category.
     -   Within each facet, there should be a bar for whether the laureate won the award in the US or not.
